@@ -9,8 +9,7 @@
 Commitment; 
 Communication; 
 Leadership; 
-Critical Thinking.
-
+Critical Thinking. 
 I don't know much about technology but I want to learn. 
 <!---
 araujobp/araujobp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
